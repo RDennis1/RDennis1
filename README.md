@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RDennis1
 - 👀 I’m interested in 
-  - Computer Vision, Deep Learning, and Intelligent Transportation Systems
+  - Computer Vision, Deep Learning, and their applications for Intelligent Transportation Systems.
 - 📫 How to reach me: rmdennis96@gmail.com
 
 <!---
