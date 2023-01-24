@@ -4,7 +4,7 @@ MASc. Graduate from Ontario Tech University with a computer vision and deep lear
 
 - 👀 I’m also interested in 
     - Generic Object Detection and Tracking, Semantic Segmentation, Image Classification, Temporal Action Localization, Action Classification, Video Understanding, Video Prediction, and Background Subtraction/Modelling from video. 
-- 📫 How to reach me: rmdennis96@gmail.com
+- 📫 How to reach me: reed@thedennistechgroup.com
 
 <!---
 RDennis1/RDennis1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
