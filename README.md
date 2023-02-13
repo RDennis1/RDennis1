@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RDennis1
+- 👋 Hi, I’m Reed Dennis
 
 MASc. Graduate from Ontario Tech University with a computer vision and deep learning background. My research interests lie in the intersection of these fields and intelligent transportation systems. Specifically, multi-camera object tracking and re-identification, road-user action recognition and anomaly detection, and spatiotemporal approaches for video object detection. I have a strong foundation in machine learning techniques. I am passionate about using these tools to solve real-world problems in transportation.
 
