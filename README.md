@@ -6,7 +6,7 @@ MASc. Graduate from Ontario Tech University with a computer vision and deep lear
     - Generic Object Detection and Tracking, Semantic Segmentation, Image Classification, Temporal Action Localization, Action Classification, Video Understanding, Video Prediction, and Background Subtraction/Modelling from video. 
 - 📫 How to reach me: reed@thedennistechgroup.com
 
-I have also been fond of researching language semantics, type theory, meta-circular evaluation, operational semantics, and lambda calculus. 
+I have also been fond of researching language semantics, type theory, meta-circular evaluation, operational semantics, lambda calculus, monadic structures, category theory, and compiler design. 
 
 <!---
 RDennis1/RDennis1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
